@@ -1,5 +1,3 @@
-package helloapagain31;
-
 
 public class Book {
 
@@ -50,6 +48,4 @@ public class Book {
 			public double discountTest(double discountRate) {
 				return price - price * (0.01 * discountRate);
 			}
-
-			
 }

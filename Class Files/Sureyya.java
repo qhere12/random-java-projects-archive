@@ -1,5 +1,3 @@
-package helloapagain31;
-
 public class Sureyya {
 	int age;
 	String surname;
@@ -22,4 +20,5 @@ public class Sureyya {
 	}
 
 }
+
 

@@ -1,4 +1,3 @@
-package helloapagain31;
 
 import java.util.Scanner;
 
@@ -74,8 +73,4 @@ sc.close();
 		random = (int) (Math.random()*(max * min - 1))+min;
 
 	}
-
-	
-
 }
-

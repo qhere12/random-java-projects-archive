@@ -1,10 +1,6 @@
-package helloapagain31;
 
 public class ArrayManipulator {
 
-	
-	
-	
 	public static String arrayToString(String[] array) {
 		String modded = "[\"";
 		for(String element : array) {
@@ -63,8 +59,4 @@ public class ArrayManipulator {
 		}
 		return "SUM: " + sum;
 	}
-
-
-
 }
-

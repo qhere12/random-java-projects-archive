@@ -1,4 +1,4 @@
-public static void main(String []args) {
+public static void main(String[] args) {
 
 public static void v1 () {
 			User user1 = new User(31.1);

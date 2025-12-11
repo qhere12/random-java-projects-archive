@@ -1,5 +1,3 @@
-package helloapagain31;
-
 import java.util.Scanner;
 
 public class TicTacToe {
@@ -103,4 +101,5 @@ public class TicTacToe {
         
         return false;
     }
+
 }

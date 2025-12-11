@@ -1,5 +1,3 @@
-package helloapagain31;
-
 import java.io.*;
 import java.util.*;
 
@@ -82,4 +80,5 @@ public class SimpleFileReader {
         Set<String> uniqueItems = new HashSet<>(list);
         return new ArrayList<>(uniqueItems);
     }
+
 }

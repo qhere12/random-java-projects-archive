@@ -1,8 +1,6 @@
-package helloapagain31;
-
 import java.util.Scanner;
 
-public class WendingMachine {
+public class VendingMachineOutdated {
 
 	int mnmPrice = 5;
 	int biskremPrice = 15;
@@ -11,7 +9,7 @@ public class WendingMachine {
 	int iceteaPrice = 20;
 
 	
-	public WendingMachine () {
+	public VendingMachineOutdated () {
 		System.out.println("Welcome to the wending machine! ");
 		System.out.println("Available items: 1) M&M 5tl, 2) Biskrem 15tl, 3) Metro 10tl, 4) Water 5tl, 5) Ice Tea 20tl,");
 		
@@ -56,3 +54,4 @@ public class WendingMachine {
 	} sc.close();
 	}	
 }
+

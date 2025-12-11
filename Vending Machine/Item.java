@@ -1,5 +1,3 @@
-package helloapagain31;
-
 public class Item {
 
 
@@ -40,4 +38,5 @@ return " Name: " + this.name  +" Stock: " + this.stock + " price: $" + this.pric
 
 }
 }
+
 

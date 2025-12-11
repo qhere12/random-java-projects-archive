@@ -1,5 +1,3 @@
-package helloapagain31;
-
 import java.util.Scanner;
 
 public class VendingMachine {
@@ -103,13 +101,5 @@ public void buy(User currentUser, Item whichItem) {
 			}
 		}
 		}
-		
-
-
 }	
 }
-
-
-
-
-

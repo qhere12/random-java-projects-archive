@@ -1,5 +1,3 @@
-package helloapagain31;
-
 public class User {
 	
 	double budget;
@@ -15,3 +13,4 @@ public class User {
 		
 		
 }
+

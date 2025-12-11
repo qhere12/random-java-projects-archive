@@ -1,5 +1,3 @@
-package helloapagain31;
-
 public class Student extends Person{
 
 	private double gpa;
@@ -18,3 +16,4 @@ public class Student extends Person{
 	
 	
 }
+

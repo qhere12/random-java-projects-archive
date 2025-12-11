@@ -1,5 +1,3 @@
-package helloapagain31;
-
 public class Person {
 
 	protected String name;
@@ -17,3 +15,4 @@ public class Person {
 		return "this is a person ";
 	}
 }
+

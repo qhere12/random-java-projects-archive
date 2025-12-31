@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+import [PACKAGE_NAME].ArrayManipulator;
+
+
 public class ArrayCreator {
 	private int [] intarray;
 	private String[] stringarray;
